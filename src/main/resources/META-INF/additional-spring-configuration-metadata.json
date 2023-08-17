@@ -1,0 +1,9 @@
+{"properties": [{
+  "name": "petstore.application.name",
+  "type": "java.lang.String",
+  "description": "A description for 'petstore.application.name'"
+}]}{"properties": [{
+  "name": "petstore.application.name",
+  "type": "java.lang.String",
+  "description": "A description for 'petstore.application.name'"
+}]}
